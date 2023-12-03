@@ -4,10 +4,12 @@ Repositorio destinado para o seminario de Engenharia de software
 # Sistema de gerenciamento de tasks:
 
 ## Integrantes 
-    Nathan Santos Ataliba - 1663 - GEC
+    
     Gabriel Henrique Guerzoni Ribeiro - 235 - GES
     Joao Pedro Moreira - 238 - GES
-    Joao Ryan dos Santos - XXX - GES
+    Joao Ryan dos Santos - 239 - GES
+    Marcos Guerra Soares - XXX - GES
+    Nathan Santos Ataliba - 1663 - GEC
     
 ## Descrição Projeto : 
 
