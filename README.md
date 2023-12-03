@@ -6,7 +6,7 @@ Repositorio destinado para o seminario de Engenharia de software
 ## Integrantes 
     Nathan Santos Ataliba - 1663 - GEC
     Gabriel Henrique Guerzoni Ribeiro - 235 - GES
-    Joao Pedro Moreira - XXX - GES
+    Joao Pedro Moreira - 238 - GES
     Joao Ryan dos Santos - XXX - GES
     
 ## Descrição Projeto : 
